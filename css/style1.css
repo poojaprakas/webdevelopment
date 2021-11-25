@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading {
+    background: rgb(239, 114, 250);
+    color: rgb(139, 0, 81);
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30%;
+    text-align: center;
+}
